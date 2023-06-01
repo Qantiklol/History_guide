@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">History guide</string>
+    <string name="era_start_date">Начальный век:</string>
+    <string name="era_end_date">Конечный век:</string>
+</resources>
